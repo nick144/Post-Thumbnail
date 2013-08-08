@@ -1,0 +1,11 @@
+.teaser_wrapper {
+width: 90%;
+margin: 0 auto;
+}
+
+.img_thumb {
+float: left;
+margin: 10px;
+padding: 5px;
+text-align: center;
+}
